@@ -7,7 +7,7 @@
                 <h2 class="mb-3 text-4xl tracking-tight font-extrabold text-gray-900">Waktu Nyemil Jadi Hangat dan Renyah
                 </h2>
                 <p class="mb-4">Dengan komitmen kami akan kualitas, kami menyediakan rangkaian camilan yang diolah dengan
-                    penuh dedikasi sehingga customer selalu mendapatkan cita rasa yang khas dari camilan Lisahwan.</p>
+                    penuh dedikasi sehingga customer selalu mendapatkan cita rasa yang khas dari camilan BranID.</p>
                 <a href="{{ route('register') }}"
                     class="mr-1 cursor-pointer text-white bg-yellow-500 hover:bg-yellow-600 font-medium rounded-lg text-base px-5 py-2.5 text-center inline-flex items-center">
                     Jadi Member
@@ -38,11 +38,11 @@
     <section class="bg-gray-900">
         <div class="py-8 px-8 mx-auto max-w-screen-xl lg:p-16">
             <div class="max-w-screen-lg mb-10 w-full">
-                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Apa saja yang spesial dari Lisahwan?</h2>
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Apa saja yang spesial dari BranID?</h2>
                 <p class="sm:text-xl text-gray-400">
                     Dalam inspirasi kekayaan hasil laut dan keanekaragaman bumbu rempah Jawa Timur, kami memahami bahwa
                     dengan menggabungkan kedua elemen tersebut, kami mampu menciptakan cemilan berkualitas tinggi dan lezat
-                    di Lisahwan.
+                    di BranID.
                 </p>
             </div>
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:gap-12 justify-center items-center">
@@ -114,7 +114,7 @@
                             </svg>
                         </div>
                         <h3 class="mt-2 text-center mb-2 text-xl font-bold text-yellow-500">Terlaris</h3>
-                        <p class="text-center text-gray-400">Sejak 2007, Lisahwan telah menjadi brand camilan yang
+                        <p class="text-center text-gray-400">Sejak 2007, BranID telah menjadi brand camilan yang
                             terpercaya dan terlaris,
                             yang terus berinovasi dalam varian produk.</p>
                     </div>
