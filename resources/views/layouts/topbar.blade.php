@@ -1,7 +1,7 @@
 <nav class="bg-gray-900 w-full z-20 top-0 left-0 border-b border-black">
     <div class="flex flex-wrap items-center justify-between mx-auto py-4 px-4 md:px-8">
         <a href="/" class="flex items-center">
-            <img src="/images/lisahwan_logo.crdownload" class="mr-3 w-16" alt="Lisahwan Logo" />
+            <img src="/images/profile_picture/logo.jpg" class="mr-3 w-16" alt="Lisahwan Logo" />
         </a>
         <div class="flex md:order-2">
 
